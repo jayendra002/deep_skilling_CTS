@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\factories\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:factories\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\factories\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:factories\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\factories\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:factories\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\documents\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:documents\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\documents\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:documents\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\documents\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:documents\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\documents\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:documents\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|c:\\users\\jayendra\\onedrive\\desktop\\deep_skilling_cts\\module-1-designpatterns\\factorymethodpattern\\factorymethodpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9B4C6A8-2609-4F59-922E-2B85C432E114}|FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\ExcelFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\ExcelFactory.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\ExcelFactory.cs",
+              "RelativeToolTip": "Factories\\ExcelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:48:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\WordFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\WordFactory.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\WordFactory.cs",
+              "RelativeToolTip": "Factories\\WordFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:47:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\PdfFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\PdfFactory.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\PdfFactory.cs",
+              "RelativeToolTip": "Factories\\PdfFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:47:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Factories\\DocumentFactory.cs",
+              "RelativeToolTip": "Factories\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:39:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:28:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\ExcelDocument.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\ExcelDocument.cs",
+              "RelativeToolTip": "Documents\\ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:37:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\PdfDocument.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\PdfDocument.cs",
+              "RelativeToolTip": "Documents\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:35:56.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\WordDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\WordDocument.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\WordDocument.cs",
+              "RelativeToolTip": "Documents\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:35:21.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\IDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\IDocument.cs",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\Documents\\IDocument.cs",
+              "RelativeToolTip": "Documents\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:34:17.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FactoryMethodPattern",
+              "DocumentMoniker": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+              "RelativeDocumentMoniker": "FactoryMethodPattern.csproj",
+              "ToolTip": "C:\\Users\\Jayendra\\OneDrive\\Desktop\\deep_skilling_CTS\\Module-1-DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+              "RelativeToolTip": "FactoryMethodPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T11:29:38.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
